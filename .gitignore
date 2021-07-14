@@ -12,3 +12,7 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+sandbox/build/reports/tests/test/index.html
+sandbox/build/test-results/test/TEST-ru.stqa.pft.sandbox.SquareTests.xml
+sandbox/build/test-results/test/TEST-ru.stqa.pft.sandbox.SquareTests.xml
+sandbox/build/test-results/test/binary/results.bin
